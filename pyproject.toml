@@ -11,6 +11,8 @@ dependencies = [
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
     "notebook>=7.6.3",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
 ]
 
 [project.scripts]
